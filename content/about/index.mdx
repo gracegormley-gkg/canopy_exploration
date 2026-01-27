@@ -1,32 +1,29 @@
 ---
-title: About
-description: Canopy IIIF makes easy the creation of digital projects for libraries, archives, and museums. Created by Mat Jordan and Mark Baggett.
+title: Explore the Documents!
+description: This is the page to explore the documents
 image: https://iiif.dc.library.northwestern.edu/iiif/3/138a94b0-175a-4152-98c7-df58661ce7d5/950,520,7100,4740/!1200,630/0/default.jpg
 referencedManifests:
-  - https://api.dc.library.northwestern.edu/api/v2/works/4bdb5a22-6c7f-498d-8e6e-e49ea9bc4778?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/c26591b2-994b-4ba3-a87e-9124419fa91b?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/d4c62d7f-f50d-4b29-85e0-5d380675bec7?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1?as=iiif
 canonical: https://canopy-iiif.github.io/app/about/index.html
 ---
 
 import {CanopyDiagram} from "@canopy-iiif/app/ui/server";
 
-# About
+# Explore the Documents!
 
-Using [IIIF collections and manifests](https://iiif.io/api/presentation/3.0/#21-defined-types) as a data source, Canopy IIIF (Canopy) generates a scholarly digital projects platform that transforms provided digital collections into an accessible, discoverable research environment. Built on modern web standards and leveraging the interoperability of IIIF, Canopy creates static sites that extend existing IIIF resources while providing advanced localized search capabilities, contextual navigation, and customizable presentation layers.
+The documents come from [the Northwestern Library Collection](https://dc.library.northwestern.edu/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1), and we are able to explore them using various tools. 
 
-<ButtonWrapper variant="interstitial" text="Have an idea for a project?">
-  <Button href="/about/get-started" label="Get started" />
-  <Button
-    href="https://canopy-iiif.github.io/app/docs/"
-    label="Read documentation"
-    variant="secondary"
-  />
+<ButtonWrapper variant="interstitial" text="Want to check out the documents on the NU Library Website?">
+  <Button href="https://dc.library.northwestern.edu/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1" label="Click Here" />
 </ButtonWrapper>
 
-## Overview
+## Timeline
 
-Picture a scenario where we have three providers with digitized items relating to a famous individual:
+First, I'm going to try to implement a timeline.
+
+<Timeline>
+
+I don't think I need to do anything else, but let's find out. 
 
 - _30 manifests_ of manuscripts from **Collection A**;
 - _15 manifests_ of portraits from **Collection B**;
