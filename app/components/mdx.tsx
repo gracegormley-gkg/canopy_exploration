@@ -14,3 +14,7 @@ export const clientComponents = {
   ExampleClient: './Example.client.tsx',
   StoryMapJS: './StoryMapJS.client.tsx',
 };
+
+export const components = {
+  CustomTimeline: './CustomTimeline.tsx',
+};
