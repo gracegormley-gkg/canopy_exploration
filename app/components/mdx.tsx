@@ -15,9 +15,3 @@ export const clientComponents = {
   StoryMapJS: './StoryMapJS.client.tsx',
 };
 
-export const components = {
-  CustomTimeline: './CustomTimeline.tsx',
-};
-
-// Also export TimelineItem so it can be used
-export { TimelineItem } from './CustomTimeline';
