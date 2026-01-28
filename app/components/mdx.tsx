@@ -18,3 +18,6 @@ export const clientComponents = {
 export const components = {
   CustomTimeline: './CustomTimeline.tsx',
 };
+
+// Also export TimelineItem so it can be used
+export { TimelineItem } from './CustomTimeline';
