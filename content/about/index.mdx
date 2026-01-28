@@ -21,8 +21,11 @@ The documents come from [the Northwestern Library Collection](https://dc.library
 
 First, I'm going to try to implement a timeline. I can't just leave it as is "<Timeline />" because the NU IES data doesn't have the "navdate" tag. We have to make it manually. 
 
-<CustomTimeline collectionUrl="https://api.dc.library.northwestern.edu/api/v2/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1?as=iiif" />
-
+<CustomTimeline>
+  <TimelineItem year="1973" title="Shaw School urban renewal plan" url="https://api.dc.library.northwestern.edu/api/v2/works/2b7ab62b-094f-4cfc-a01f-3e05391f8784?as=iiif" />
+  <TimelineItem year="1975" title="Another Document" />
+  <TimelineItem year="1980" title="Third Document" />
+</CustomTimeline>
 
 
 I don't think I need to do anything else, but let's find out. 
