@@ -21,11 +21,24 @@ The documents come from [the Northwestern Library Collection](https://dc.library
 
 First, I'm going to try to implement a timeline. I can't just leave it as is "<Timeline />" because the NU IES data doesn't have the "navdate" tag. We have to make it manually. 
 
-<CustomTimeline>
-  <TimelineItem year="1973" title="Shaw School urban renewal plan" url="https://api.dc.library.northwestern.edu/api/v2/works/2b7ab62b-094f-4cfc-a01f-3e05391f8784?as=iiif" />
-  <TimelineItem year="1975" title="Another Document" />
-  <TimelineItem year="1980" title="Third Document" />
-</CustomTimeline>
+<Timeline
+  title="Timeline of Select Documents"
+  range={{ start: "1970", end: "1950", granularity: "year" }}
+  height="700px"
+>
+  <TimelinePoint
+    date="1973" 
+    title="Shaw School urban renewal plan : environmental impact statement"
+    url="https://dc.library.northwestern.edu/items/2b7ab62b-094f-4cfc-a01f-3e05391f8784"
+  />
+
+<TimelinePoint
+  date="1920"
+  title="Non-Cooperation Movement"
+  summary="Gandhi led a mass boycott of British institutions, making the movement nationwide."
+/>
+  />
+</Timeline>
 
 
 I don't think I need to do anything else, but let's find out. 
