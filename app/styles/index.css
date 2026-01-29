@@ -5,9 +5,9 @@
 @layer properties {
   :root,
   :host {
-    --font-sans: system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
-    --font-serif: "Fraunces", Georgia, "Times New Roman", serif;
-    --font-mono: "IBM Plex Mono", "ui-monospace", Menlo, Consolas, monospace;
+    --font-sans: "Outfit", "Quicksand", sans-serif;
+    --font-serif: "Spectral", "Merriweather", Georgia, serif;
+    --font-mono: "Space Mono", "Courier New", monospace;
     --default-font-family: var(--font-serif);
   }
 }
