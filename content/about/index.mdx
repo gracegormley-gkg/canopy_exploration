@@ -19,7 +19,7 @@ The documents come from [the Northwestern Library Collection](https://dc.library
 
 ## Timeline
 
-First, I'm going to try to implement a timeline. I can't just leave it as is "<Timeline />" because the NU IES data doesn't have the "navdate" tag. We have to make it manually. 
+First, I'm going to try to implement a timeline. I can't just leave it as is because the NU IES data doesn't have the "navdate" tag. We have to make it manually. 
 
 <Timeline
   title="Timeline of Select Documents"
@@ -27,10 +27,18 @@ First, I'm going to try to implement a timeline. I can't just leave it as is "<T
   height="700px"
 >
   <TimelinePoint
-    date="1973" 
+    date="1973"
     title="Shaw School Urban Renewal Plan"
-    summary="Here, we could insert an AI summary somehow. And add [the link](https://dc.library.northwestern.edu/items/2b7ab62b-094f-4cfc-a01f-3e05391f8784)."
-  />
+  >
+    Here, we could insert an AI summary somehow. And add{" "}
+    <a
+      href="https://dc.library.northwestern.edu/items/2b7ab62b-094f-4cfc-a01f-3e05391f8784"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      the link
+    </a>.
+  </TimelinePoint>
 
 <TimelinePoint
   date="1974"
