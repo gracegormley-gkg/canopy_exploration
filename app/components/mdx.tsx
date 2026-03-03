@@ -6,6 +6,7 @@
 // Map SSR-safe components to be rendered at build time and used in MDX files
 export const components = {
   Example: './Example.tsx',
+  DataExample: './DataExample.tsx',
 };
 
 // Map browser-only components to their source files; the builder bundles
@@ -14,4 +15,6 @@ export const clientComponents = {
   ExampleClient: './Example.client.tsx',
   StoryMapJS: './StoryMapJS.client.tsx',
 };
+
+
 
