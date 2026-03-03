@@ -6,7 +6,7 @@ type DataExampleEntry = {
   people: string[];
   lat: number;
   long: number;
-  place: string;
+  place?: string | null;
 };
 
 const dataExampleData = dataExamples as DataExampleEntry[];
@@ -20,20 +20,26 @@ export default function DataExample({ id }: { id: string }) {
 
   return (
     <dl>
-      <div role="group" data-label="place">
-        <dt>Place</dt>
-        <dd>{dataExample.place}</dd>
-      </div>
-      <div role="group" data-label="people">
-        <dt>People</dt>
-        {dataExample.people.map((name) => (
-          <dd key={name}>{name}</dd>
-        ))}
-      </div>
-      <div role="group" data-label="coordinates">
-        <dt>Coordinates</dt>
-        <dd>{dataExample.lat}, {dataExample.long}</dd>
-      </div>
+      {dataExample.place && (
+        <div role="group" data-label="place">
+          <dt>Place</dt>
+          <dd>{dataExample.place}</dd>
+        </div>
+      )}
+      {dataExample.people && dataExample.people.length > 0 && (
+        <div role="group" data-label="people">
+          <dt>People</dt>
+          {dataExample.people.map((name) => (
+            <dd key={name}>{name}</dd>
+          ))}
+        </div>
+      )}
+      {dataExample.lat && dataExample.long && (
+        <div role="group" data-label="coordinates">
+          <dt>Coordinates</dt>
+          <dd>{dataExample.lat}, {dataExample.long}</dd>
+        </div>
+      )}
     </dl>
   );
 }
