@@ -1,0 +1,52 @@
+title: Grace's Canopy Exploration
+
+collection:
+  - https://gracegormley-gkg.github.io/canopy_exploration/enriched_collection.json
+
+# Place and Key People come from your enriched manifests
+# Subject, Date etc come from the original NUL metadata
+metadata:
+  - Place
+  - Key People
+  - Subject
+  - Date
+  - Genre
+
+featured:
+  - https://gracegormley-gkg.github.io/canopy_exploration/enriched_manifests/60f7459a-53ad-4b30-9a36-99340046bcdb.json
+
+map:
+  enabled: true
+  defaultBounds: [[24.396308, -124.848974], [49.384358, -66.885444]]
+  tileLayers:
+    - name: OpenStreetMap
+      url: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+      attribution: "&copy; OpenStreetMap contributors"
+
+search:
+  page:
+    title: Search
+    description: Use this to search my prototype site.
+  results:
+    work:
+      layout: grid
+      result: figure
+    page:
+      layout: list
+      result: article
+  index:
+    metadata:
+      enabled: true
+      all: false
+    summary:
+      enabled: true
+    annotations:
+      enabled: false
+      motivation:
+        - commenting
+        - tagging
+
+theme:
+  appearance: dark
+  accentColor: sky
+  grayColor: mauve
