@@ -1,0 +1,862 @@
+[
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/fb307312-04c8-4c49-afa3-e7b650650a7c?as=iiif",
+    "people": [],
+    "lat": 41.0530129,
+    "long": -120.4167312,
+    "place": "Mitchell Field"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3?as=iiif",
+    "people": [],
+    "lat": 42.8864163,
+    "long": -78.8781493,
+    "place": "Buffalo"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/e33939cd-308b-47af-853e-58a6b1aba7e3?as=iiif",
+    "people": [],
+    "lat": 35.0120203,
+    "long": -82.9098918,
+    "place": "Lake Jocassee"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/200209c2-e42f-411f-9644-5f086f2f791c?as=iiif",
+    "people": [],
+    "lat": 40.2663107,
+    "long": -76.8861122,
+    "place": "Harrisburg, Pennsylvania"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556?as=iiif",
+    "people": [
+      "Thomas J. Madden",
+      "Sheldon Meyers",
+      "T. C. Everly",
+      "Jack M. Hart",
+      "John L. Clarke",
+      "Daniel S. Tankersley"
+    ],
+    "lat": 41.031393,
+    "long": -86.6990692,
+    "place": "Pulaski County, Indiana"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/60f7459a-53ad-4b30-9a36-99340046bcdb?as=iiif",
+    "people": [
+      "Secretary"
+    ],
+    "lat": 39.7837304,
+    "long": -100.445882,
+    "place": "United States"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/81bbecc8-30f2-4ffd-85c5-f0db284eeb92?as=iiif",
+    "people": [
+      "E. V. Lewis",
+      "Henry N. Cyrus",
+      "T. C. Nichols, Jr.",
+      "Charles E. Lee"
+    ],
+    "lat": 32.1618488,
+    "long": -80.7512616,
+    "place": "Hilton Head Island"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/e05c9c4e-c5fa-494c-a675-121ebb0da011?as=iiif",
+    "people": [
+      "Sidney R. Galler",
+      "Donald Paul Model",
+      "John A. Green",
+      "Philip L. Thornton"
+    ],
+    "lat": 48.382564,
+    "long": -114.0559646,
+    "place": "Hungry Horse"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/ff9a87f5-067b-4d43-8241-851005628586?as=iiif",
+    "people": [
+      "S. William Green",
+      "Sidney R. Galler",
+      "Newton S. Downing",
+      "Roland B. Hemmett",
+      "Roger Sumner Babb",
+      "W. H. Pennington"
+    ],
+    "lat": 42.0897965,
+    "long": -76.8077338,
+    "place": "Elmira, New York"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/fba536d5-f1db-4e81-b8a6-e9af0be010bd?as=iiif",
+    "people": [
+      "R. E. Johnson",
+      "Sidney R. Galler",
+      "Hurlon C. Ray",
+      "Kessler R. Cannon",
+      "Thomas E. Kruse",
+      "Richard W. Pearson"
+    ],
+    "lat": null,
+    "long": null,
+    "place": "Warm Springs National Fish Hatchery, Oregon"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5?as=iiif",
+    "people": [],
+    "lat": 37.0222717,
+    "long": -112.5383159,
+    "place": "Kanab/Escalante"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/29b89810-6b04-4796-82dc-a0080bab8942?as=iiif",
+    "people": [
+      "J. Fraser",
+      "C. G. White"
+    ],
+    "lat": 33.8227538,
+    "long": -84.3695494,
+    "place": "Lindbergh Center Station"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/8f8f77c7-1286-40f2-9663-bc219f987505?as=iiif",
+    "people": [
+      "Peter Benjamin",
+      "Charles Custard",
+      "William Patterson",
+      "Barbara M. Metzger",
+      "Myra F. Harrison",
+      "Terence P. Curran"
+    ],
+    "lat": 42.8864163,
+    "long": -78.8781493,
+    "place": "Buffalo, New York"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56?as=iiif",
+    "people": [],
+    "lat": 41.8755616,
+    "long": -87.6244212,
+    "place": "Chicago"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/be007e4b-d662-4e2f-81c0-53f93844929c?as=iiif",
+    "people": [],
+    "lat": 41.8755616,
+    "long": -87.6244212,
+    "place": "Chicago"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0?as=iiif",
+    "people": [
+      "Miles Edwards",
+      "George Wallace",
+      "Andrew Schlesinger"
+    ],
+    "lat": 39.7405111,
+    "long": -104.830994,
+    "place": "Aurora, Colorado"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/ccd55da3-3f23-409b-a94e-83a7eccf317d?as=iiif",
+    "people": [
+      "James L. Liverman",
+      "Sheldon Meyers",
+      "F. E. Hawley",
+      "Russell W. Peterson"
+    ],
+    "lat": 35.8702883,
+    "long": -106.3088476,
+    "place": "Nevada Test Site"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/72905c97-4f67-4a33-a864-871c879b80eb?as=iiif",
+    "people": [],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/eeee0a97-8076-4885-8582-6e25e3c29773?as=iiif",
+    "people": [],
+    "lat": 34.395342,
+    "long": -111.763275,
+    "place": "Arizona"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2?as=iiif",
+    "people": [
+      "H. W. Braham",
+      "C. H. Fiscus",
+      "R. J. Bockstoce",
+      "A. A. Berzin",
+      "J. A. Cook",
+      "B. Krogman"
+    ],
+    "lat": 72.9886283,
+    "long": -135.2371682,
+    "place": "Beaufort Sea"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/17398b31-01b3-42f3-8a6f-7e7ac9f48823?as=iiif",
+    "people": [],
+    "lat": 44.933143,
+    "long": 7.540121,
+    "place": null
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/2b7ab62b-094f-4cfc-a01f-3e05391f8784?as=iiif",
+    "people": [],
+    "lat": null,
+    "long": null,
+    "place": "Shaw School Urban Renewal Area, District of Columbia"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5?as=iiif",
+    "people": [
+      "Vance P. Packard",
+      "Wm. H. Regan Jr."
+    ],
+    "lat": 40.1533018,
+    "long": -76.7244372,
+    "place": "Three Mile Island Nuclear Station"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/e9579277-9c90-475e-94a6-055975228d2c?as=iiif",
+    "people": [
+      "J. O. Meeker",
+      "Charles J. Orlebeke",
+      "John C. Young",
+      "John M. Montgomery",
+      "Richard H. Broun",
+      "Paul Cromwell"
+    ],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/36d5b0f3-7371-4cac-a1bf-c052900d2d8c?as=iiif",
+    "people": [
+      "Gary A. Potter",
+      "Howard W. Harris",
+      "Victor Atiyeh"
+    ],
+    "lat": 43.9792797,
+    "long": -120.737257,
+    "place": "Oregon"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5?as=iiif",
+    "people": [],
+    "lat": 17.9712148,
+    "long": -76.7928128,
+    "place": "Kingston"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/39985efa-66b9-4eef-8f44-3e1a6fc27645?as=iiif",
+    "people": [
+      "Paul T. Cain",
+      "James Treadwell",
+      "W. R. Eaton",
+      "D. A. Salvetti Jr."
+    ],
+    "lat": 51.7995031,
+    "long": 0.0727837,
+    "place": "Eastwick"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/c828b2a6-38f2-4cb1-b15c-b0895b508482?as=iiif",
+    "people": [
+      "James M. Lents",
+      "John M. Dempsey"
+    ],
+    "lat": 35.0457219,
+    "long": -85.3094883,
+    "place": "Chattanooga"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/e26f2861-9676-4bbb-88a1-1734629bdf79?as=iiif",
+    "people": [],
+    "lat": 42.3588336,
+    "long": -71.0578303,
+    "place": "Boston"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/2d55f0a5-2241-49ef-a135-cd5785cc36de?as=iiif",
+    "people": [],
+    "lat": 52.2055314,
+    "long": 0.1186637,
+    "place": "Cambridge"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e?as=iiif",
+    "people": [],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/bbae926c-0ea9-401d-9b66-a08e1513a8c1?as=iiif",
+    "people": [
+      "R. C. Sheets",
+      "S. L. Rosenthal",
+      "R. C. Gentry",
+      "W. M. Gray",
+      "H. F. Hawkins",
+      "R. W. Jones"
+    ],
+    "lat": 40.0,
+    "long": -40.0,
+    "place": "North Atlantic"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/01b6796e-1cbf-4c98-a651-5bcd07a3e95d?as=iiif",
+    "people": [],
+    "lat": 34.4458248,
+    "long": -119.0779359,
+    "place": "Ventura County"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/16bd6843-d6c6-4ed0-b831-0f755ecec291?as=iiif",
+    "people": [],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/3102f822-0c8a-4c77-96e0-f949d793efbc?as=iiif",
+    "people": [],
+    "lat": 44.933143,
+    "long": 7.540121,
+    "place": null
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/be4167bc-ea0d-4701-b45b-75362d812ff5?as=iiif",
+    "people": [],
+    "lat": 32.8965195,
+    "long": -97.0465221,
+    "place": "Dallas-Fort Worth"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/ee020c1c-c909-4280-82e3-9a3c840bf039?as=iiif",
+    "people": [
+      "Sadye E. Dunn",
+      "Robert Roland",
+      "Walter Muir",
+      "Irwin Billick",
+      "Albert H. Brunwasser",
+      "Theodore J. Kneip"
+    ],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/2e745ac2-b7e1-457c-8695-5715a96202a7?as=iiif",
+    "people": [
+      "George C. Frison",
+      "Charles Love",
+      "Michael W. Jensen",
+      "John C. Paige"
+    ],
+    "lat": 43.6087926,
+    "long": -110.7380325,
+    "place": "Jackson Hole"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/2db0013d-db56-496b-a68f-9fdc13a11e2f?as=iiif",
+    "people": [],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12?as=iiif",
+    "people": [
+      "Joseph R. Biden, Jr.",
+      "George I. Bloom",
+      "Sherman W. Tribbitt",
+      "Russell Train",
+      "Milton Roedel",
+      "S. A. Ballard"
+    ],
+    "lat": 42.1602824,
+    "long": -74.6229617,
+    "place": "Delaware River"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8?as=iiif",
+    "people": [
+      "Edward N. Dobson",
+      "James F. Canon",
+      "Bruce L. Terris",
+      "Thomas J. Lyons",
+      "William P. Fitzgerald",
+      "Douglas Preseman"
+    ],
+    "lat": 18.274539,
+    "long": -78.3430145,
+    "place": "Westmoreland Resource"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/623b42e5-8776-42e2-a055-51067bc3e2d4?as=iiif",
+    "people": [],
+    "lat": 39.7686055,
+    "long": -94.8466322,
+    "place": "St. Joseph, Missouri"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/4ae772df-a902-455f-b279-28ce16b6f3db?as=iiif",
+    "people": [],
+    "lat": 41.1559314,
+    "long": -72.268136,
+    "place": "New York Bight"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/4d4c7746-8342-4de4-b577-800db1eede37?as=iiif",
+    "people": [],
+    "lat": 52.2055314,
+    "long": 0.1186637,
+    "place": "Cambridge"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/7a473d94-fa2e-4bcf-a2ea-bf5fa95bff90?as=iiif",
+    "people": [
+      "L. Ross Morrell",
+      "Bruce L. Swathers",
+      "E. Randolph Preston"
+    ],
+    "lat": 25.8267775,
+    "long": -80.2814009,
+    "place": "Hialeah, Florida"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/913e061e-70cf-4fa0-a181-f877aaa74c5f?as=iiif",
+    "people": [],
+    "lat": 37.2333253,
+    "long": -121.6846349,
+    "place": "Santa Clara County"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244?as=iiif",
+    "people": [
+      "Logan D. Delany",
+      "Jesse Ray, Jr.",
+      "Harlow L. Holt",
+      "Butler Associates"
+    ],
+    "lat": 35.6163156,
+    "long": -82.5676257,
+    "place": "Asheville, North Carolina"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/87baf9bd-ab6f-449e-af0e-b69f95b43cfa?as=iiif",
+    "people": [],
+    "lat": 47.4475673,
+    "long": -122.3080159,
+    "place": "Seattle Tacoma International Airport"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/78bef8c8-361c-4548-8e2d-07847eb7a3e7?as=iiif",
+    "people": [],
+    "lat": 40.2931485,
+    "long": -75.1599412,
+    "place": "Delaware Valley"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/300501fb-3ce8-47d5-8cdc-8922217ee9fe?as=iiif",
+    "people": [
+      "Randall Ledbetter",
+      "P. M. Townsley",
+      "Vinton Bacon",
+      "Bart Lyman",
+      "Richard F. Ward",
+      "Donald A. Wallgren"
+    ],
+    "lat": 42.0415823,
+    "long": -87.8873916,
+    "place": "Des Plaines"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/34927df0-6d84-4a46-be59-35c4a6806be8?as=iiif",
+    "people": [
+      "Jack E. Leisch"
+    ],
+    "lat": 69.6819069,
+    "long": 18.9724906,
+    "place": "I-55"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/2d38cd3c-afea-453a-919a-aa3926fef3ed?as=iiif",
+    "people": [],
+    "lat": 41.8755616,
+    "long": -87.6244212,
+    "place": "Chicago"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/236ff945-85fd-4124-a6f3-5527c07da301?as=iiif",
+    "people": [
+      "Lynn H. Thompson",
+      "Andrew L. Bettwy",
+      "Melvin T. Smith",
+      "John A. McComb",
+      "William F. Briney",
+      "Anthony R. Kulina"
+    ],
+    "lat": 37.6580958,
+    "long": -111.0932089,
+    "place": "Glen Canyon National Recreation Area"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/a7f30acc-9be6-40e1-b46d-39e68e734757?as=iiif",
+    "people": [],
+    "lat": 33.7690164,
+    "long": -118.191604,
+    "place": "Long Beach"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/e5c9c784-fb97-4882-996c-724957dc959f?as=iiif",
+    "people": [],
+    "lat": 34.1135921,
+    "long": -116.2919281,
+    "place": "California Desert Conservation Area"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/0c48f789-b007-4555-8e8b-11e8b3806e90?as=iiif",
+    "people": [],
+    "lat": 45.8109935,
+    "long": -107.1225092,
+    "place": "Sarpy Creek"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/2b36982f-0ab3-43ef-a590-c2144b815bf9?as=iiif",
+    "people": [],
+    "lat": 44.9696824,
+    "long": -93.2796553,
+    "place": "Loring Park"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/4c97f8ee-3db3-404a-8fb4-89137d575036?as=iiif",
+    "people": [],
+    "lat": 42.3363743,
+    "long": -83.0513468,
+    "place": "Grand Circus Park"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/6d19de7d-6169-4d7f-bb77-69ae5912baab?as=iiif",
+    "people": [],
+    "lat": 44.933143,
+    "long": 7.540121,
+    "place": null
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/a233dab1-1f29-4e83-aa49-acac6296969f?as=iiif",
+    "people": [],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/fcb050a4-bcff-41b8-b974-959ec63fe0d9?as=iiif",
+    "people": [
+      "Sidney R. Galler",
+      "Everett H. Rothschild",
+      "George C. Whitman",
+      "Francis W. Kuchta",
+      "Gregory L. Gilmore"
+    ],
+    "lat": 39.2795997,
+    "long": -76.6052472,
+    "place": "Inner Harbor West"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/037cfa4c-bb5f-4257-9abf-c6be5c0b524f?as=iiif",
+    "people": [],
+    "lat": 50.263555,
+    "long": -114.3745292,
+    "place": "Willowridge"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/eb2d39a3-6e5f-49df-ad86-fa9b74e254de?as=iiif",
+    "people": [
+      "John C. Doherty",
+      "Peter A.A. Berle",
+      "Terence P. Curran",
+      "William H. Stasiu",
+      "Robert L. Hilliard",
+      "Russell W. Peterson"
+    ],
+    "lat": 40.9312099,
+    "long": -73.8987469,
+    "place": "Yonkers, New York"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/63f36978-a696-4cd4-90cc-795158874a93?as=iiif",
+    "people": [
+      "Louis W. Mendonsa",
+      "Pope Lawrence",
+      "Robert Stern",
+      "Gabriel Gillotti",
+      "George Karas",
+      "Donald E. Mackenzie"
+    ],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/f009744b-3e0c-4e53-97b5-e3262f036b8b?as=iiif",
+    "people": [],
+    "lat": 39.7837304,
+    "long": -100.445882,
+    "place": "United States"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d?as=iiif",
+    "people": [],
+    "lat": 36.1438011,
+    "long": -86.8028189,
+    "place": "Vanderbilt University"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64?as=iiif",
+    "people": [
+      "Andrea Gutman"
+    ],
+    "lat": 34.0536909,
+    "long": -118.242766,
+    "place": "Los Angeles"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/04f934e3-8c84-4e39-9827-5b062d04ae04?as=iiif",
+    "people": [
+      "John R. McGuire",
+      "Robert W. Long",
+      "Sheldon Meyers",
+      "Donald Paul Hodel"
+    ],
+    "lat": 53.9814888,
+    "long": -2.5219127,
+    "place": "National Forest System lands"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/81a6fe3d-37e2-4f09-966e-504323479b6c?as=iiif",
+    "people": [
+      "Bruce Chandler",
+      "Dr. Huff",
+      "Dr. R.D.",
+      "Maxcy",
+      "Rosenau"
+    ],
+    "lat": 37.7483941,
+    "long": -119.5492524,
+    "place": "Mirror Lake, California"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/af5b0de8-26dd-4419-9ccb-0b41b84c0f00?as=iiif",
+    "people": [
+      "Ralph E. Cushman",
+      "NASA Associate Administrator",
+      "John F. Kennedy",
+      "Rapheal",
+      "Man",
+      "Curtain"
+    ],
+    "lat": 38.8950368,
+    "long": -77.0365427,
+    "place": "Washington, D.C."
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/5707b717-4793-46d6-afcf-e91bb72af727?as=iiif",
+    "people": [
+      "Billy Guess",
+      "Roice Carson Guess"
+    ],
+    "lat": 34.8835844,
+    "long": -85.7551749,
+    "place": "Widows Creek"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/b80d8a26-6348-4c65-aa2b-ea7a23172358?as=iiif",
+    "people": [
+      "George R. Alexander",
+      "David Kenney",
+      "Matthew L. Rockwell"
+    ],
+    "lat": 41.8755616,
+    "long": -87.6244212,
+    "place": "Chicago"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/a9323139-05cc-402f-b5ec-064cd79b604c?as=iiif",
+    "people": [
+      "Salvatore Favazza",
+      "Richard Emmanuel",
+      "Lydia Roberts",
+      "James Montagnino",
+      "David Gardner",
+      "Norman C. Ross"
+    ],
+    "lat": 51.8653705,
+    "long": -2.2458192,
+    "place": "Gloucester"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5?as=iiif",
+    "people": [
+      "Peter Benjamin",
+      "Anne Norton Miller",
+      "James Melchert",
+      "Montgomery L. Byers",
+      "Victor E. Taylor",
+      "William Patterson"
+    ],
+    "lat": 40.7097367,
+    "long": -74.010857,
+    "place": "New York Broadway Plaza"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/f29be4ff-79af-4b20-84a0-eb52fa3fca48?as=iiif",
+    "people": [
+      "Peter L. Parry",
+      "Harry W. Miller",
+      "E. Kent Beth",
+      "William Penn Mott Jr."
+    ],
+    "lat": 34.1258358,
+    "long": -116.0377794,
+    "place": "Joshua Tree National Monument, California"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/0940594e-e055-4864-bda0-377927b03b4d?as=iiif",
+    "people": [
+      "James R. Treadwell",
+      "John D. McDermott",
+      "Ann Webster Smith",
+      "A. R. Mortensen"
+    ],
+    "lat": 39.9527237,
+    "long": -75.1635262,
+    "place": "Philadelphia, Pennsylvania"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/0f5d553d-8fb3-4b02-9069-cec741c9d66c?as=iiif",
+    "people": [],
+    "lat": 44.933143,
+    "long": 7.540121,
+    "place": null
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/fd37e5be-40d4-4941-8515-1d8813b41b71?as=iiif",
+    "people": [
+      "Robert J. Catlin",
+      "Dennis A. Davis",
+      "Robert A. Jantzen",
+      "Donald C. Gilbert",
+      "Vernon H. Lassen",
+      "Wesley E. Steiner"
+    ],
+    "lat": 35.8702883,
+    "long": -106.3088476,
+    "place": "Nevada Test Site"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/15705865-43f8-4aa2-9401-03cf661c8b61?as=iiif",
+    "people": [],
+    "lat": 48.094132,
+    "long": -119.68444,
+    "place": "Columbia River"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369?as=iiif",
+    "people": [
+      "Robert Duckworth",
+      "Terry Chisholm"
+    ],
+    "lat": null,
+    "long": null,
+    "place": "14th Street Urban Renewal Area"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/6a527c28-c55d-4748-ada9-be0c126cf911?as=iiif",
+    "people": [
+      "Anthony A. Smith",
+      "Gordon E. Penney",
+      "Willard Lewis",
+      "Jerry Jasker"
+    ],
+    "lat": 37.9836344,
+    "long": -97.8663499,
+    "place": "Arkansas River"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ea92bba-19a8-4fac-bd31-b125465a5a60?as=iiif",
+    "people": [
+      "Rouse",
+      "Lopez",
+      "E & E",
+      "Pantel",
+      "De Rafols",
+      "Bingham"
+    ],
+    "lat": 18.121674,
+    "long": -65.4571194,
+    "place": "Vieques"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/b8155609-6dec-4620-9d58-5e2e4583bc67?as=iiif",
+    "people": [
+      "Martha Bigelow",
+      "Lawrence Finfer",
+      "Marvon Watson",
+      "Richard H. Austin",
+      "Howard A. Tanner",
+      "William G. Milliken"
+    ],
+    "lat": 43.6211955,
+    "long": -84.6824346,
+    "place": "Michigan"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/74b6a128-27b7-4877-b7d4-a22842139fb7?as=iiif",
+    "people": [],
+    "lat": 20.9559973,
+    "long": -102.0261866,
+    "place": "San Diego Region"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/7a4f08f7-df40-495e-a11e-fa3f79241e64?as=iiif",
+    "people": [
+      "E. Dean Carlson",
+      "John D. McLermot",
+      "Russell F. Fridley",
+      "Paul G. Veis"
+    ],
+    "lat": 44.9772995,
+    "long": -93.2654692,
+    "place": "Minneapolis"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/af044d87-15d1-4c4a-a5c9-820f5c5a89a9?as=iiif",
+    "people": [],
+    "lat": 8.559559,
+    "long": -81.1308434,
+    "place": "Panama"
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/deb1182a-e9b3-450f-8891-5b47c7a3f727?as=iiif",
+    "people": [
+      "S. William Green",
+      "Byron G. Walker",
+      "Bayard S. Forster",
+      "Robert L.illiard",
+      "Luther W. Stringham",
+      "Roger Sumner Babb"
+    ],
+    "lat": 43.157285,
+    "long": -77.615214,
+    "place": "Rochester, New York"
+  }
+]
